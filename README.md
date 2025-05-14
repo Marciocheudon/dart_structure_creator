@@ -1,4 +1,3 @@
-```
 # 📁 dart_structure_creator
 
 A simple ⚡ Dart script to automatically generate your Flutter project folder structure — especially useful when you use ChatGPT to help plan your app layout.
@@ -82,4 +81,3 @@ This is just a small helper tool — let’s make it even better together.
 
 Happy coding! 🚀✨
 
-```
