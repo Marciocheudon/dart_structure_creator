@@ -9,7 +9,7 @@ A simple ⚡ Dart script to automatically generate your Flutter project folder s
 Do you love asking ChatGPT to generate folder structures for your Flutter apps?  
 Ask it using the following prompt:
 
-> "List the structure using `/` for subfolders, end folder names with `/`, and avoid visual symbols."
+> "List the structure with / for subfolders, folders ending with /, and files with .dart within their respective subfolders or folders and without graphic symbols."
 
 It will give you something like:
 
